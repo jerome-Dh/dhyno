@@ -1,73 +1,56 @@
 # DHYNO
 
-Une calculatrice simple, efficace et intuitive
+Framework web pour PHP
 
 ## Commencer
 
-Ces instructions vous fourniront une copie du projet opérationnel sur votre ordinateur local à des fins de développement et de test. Voir le déploiement pour des notes sur la manière de déployer le projet sur un système actif.
+![accueil](https://github.com/jerome-Dh/dhyno/blob/master/public/images/logo.png)
+
+Dhyno est un framework pour le developpement des applications web en PHP en suivant une architecture MVC (Model-Vue-Controlleur)
+
 
 ### Conditions préalables
 
-De quoi avez-vous besoin pour installer le logiciel et comment les installer?
+De quoi avez-vous besoin pour utiliser Dhyno ?
 
-`` `
-Donne des exemples
-`` `
+- ![Composer](https://getcomposer.org/download/)
+
+- ![PHP7.2](https://www.php.net/docs.php)
+
+- ![PHPUnit](https://phpunit.de/)
+
+- ![Git](https://git-scm.com/downloads)
+
+- 30 minutes de votre temps
+
 
 ### Installation
 
-Une série d'exemples pas à pas vous expliquant comment exécuter un environnement de développement en cours d'exécution.
-
-Dites ce que le pas sera
-
-`` `
-Donner l'exemple
-`` `
-
-Et répétez
-
-`` `
-jusqu'à la fin
-`` `
-
-Terminez avec un exemple d'extraction de données du système ou d'utilisation pour une petite démonstration.
 
 ## Lancer les tests
 
-Expliquer comment exécuter les tests automatisés pour ce système
+Dhyno utilise PHPUnit pour effectuer des tests unitaires 
 
 ### Décomposer en tests de bout en bout
 
-Expliquez ce que ces tests testent et pourquoi
+### Tests de style de codage
 
-`` `
-Donne un exemple
-`` `
-
-### Et tests de style de codage
-
-Expliquez ce que ces tests testent et pourquoi
-
-`` `
-Donne un exemple
-`` `
 
 ## Déploiement
 
-### Page d'accueil par défaut
-![accueil](https://github.com/jerome-Dh/dhyno/blob/master/capture/c1.JPG)
 
-Ajouter des notes supplémentaires sur la façon de déployer ceci sur un système actif
 
 ## Construit avec
 
-* [Dropwizard] (http://www.dropwizard.io/1.0.2/docs/) - Le cadre Web utilisé
-* [Maven] (https://maven.apache.org/) - Gestion des dépendances
-* [ROME] (https://rometools.github.io/rome/) - Utilisé pour générer des flux RSS
+* ![Composer](https://getcomposer.org/download/) Outil de gestion des dépendances
+* ![PHP](https://www.php.net/docs.php) Langage de developpement
+* ![PHPUnit](https://phpunit.de/) Le framework des tests unitaires
+* ![Git](https://git-scm.com/downloads) Pour versionner le code
+
 
 ## Contribuant
 
-Veuillez consulter [CONTRIBUTING.md] (https://gist.github.com/PurpleBooth/b24679402957c63ec426) pour obtenir des détails sur notre code de conduite et sur le processus de soumission des demandes d'extraction.
+Veuillez consulter [CONTRIBUTING.md] (https://gist.github.com/dhyno/b24679402957c63ec426) pour obtenir des détails sur notre code de conduite et sur le processus de soumission des demandes d'extraction.
 
 ## Versioning
 
