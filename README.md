@@ -24,7 +24,7 @@ De quoi avez-vous besoin pour utiliser Dhyno ?
 - 30 minutes de votre temps
 
 
-### Installation
+## Installation
 
 ```
 git clone https://github.com/jerome-Dh/dhyno.git
@@ -37,6 +37,7 @@ composer update
 ```
 composer dumpautoload
 ```
+
 
 ## Lancer les tests
 
