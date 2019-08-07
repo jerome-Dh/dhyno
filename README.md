@@ -42,10 +42,10 @@ Dhyno utilise PHPUnit pour effectuer des tests unitaires
 
 ## Construit avec
 
-* [Composer](https://getcomposer.org/download/) Outil de gestion des dépendances
-* [PHP](https://www.php.net/docs.php) Langage de developpement
-* [PHPUnit](https://phpunit.de/) Le framework des tests unitaires
-* [Git](https://git-scm.com/downloads) Pour versionner le code
+* [Composer](https://getcomposer.org/download/) - Outil de gestion des dépendances
+* [PHP](https://www.php.net/docs.php) - Langage de développement
+* [PHPUnit](https://phpunit.de/) - Le framework des tests unitaires
+* [Git](https://git-scm.com/downloads) - Pour versionner le code
 
 
 ## Contribuant
