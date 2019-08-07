@@ -6,7 +6,7 @@ Framework web pour PHP
 
 ![accueil](https://github.com/jerome-Dh/dhyno/blob/master/public/images/small-logo.png)
 
-Dhyno est un framework pour le developpement des applications web en PHP en suivant une architecture MVC (Model-Vue-Controlleur)
+Dhyno est un framework pour le développement des applications web en PHP en suivant une architecture MVC (Model-Vue-Controlleur).
 
 
 ### Conditions préalables
@@ -54,7 +54,7 @@ Veuillez consulter [CONTRIBUTING.md] (https://github.com/jerome-Dh/dhyno/graphs/
 
 ## Versioning
 
-Nous utilisons [Git] (https://git-scm.com) pour la gestion des versions. Pour les versions disponibles, voir les [balises sur ce référentiel] (https://github.com/jerome-Dh/dhyno/tags).
+Nous utilisons [Git] (https://git-scm.com) pour la gestion des versions. Pour les versions disponibles, voir les [releases] (https://github.com/jerome-Dh/dhyno/tags).
 
 ## Auteurs
 
