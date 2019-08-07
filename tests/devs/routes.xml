@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<routes>
+	<web>
+		<get url="show" action="Home@show"/>
+		<get url="/" action="acceuil"/>
+		<get url="/" action="acceuil"/>
+		<post url="test" action="acceuil"/>
+		<post url="/" action="acceuil"/>
+	</web>
+	<api>
+		<get url="test" action="FooController@doSometing"/>
+		<get url="/" action="FooController@doSometing"/>
+	</api>
+</routes>
