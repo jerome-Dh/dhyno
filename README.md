@@ -27,15 +27,15 @@ De quoi avez-vous besoin pour utiliser Dhyno ?
 ## Installation
 
 ```
-git clone https://github.com/jerome-Dh/dhyno.git
+> git clone https://github.com/jerome-Dh/dhyno.git
 ```
 
 ```
-composer update
+> composer update
 ```
 
 ```
-composer dumpautoload
+> composer dumpautoload
 ```
 
 
