@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+
+	Le système de routage de l'application
+
+	Les routes peuvent utiliser une url et une action menant vers un controlleur 
+	ou vers une vue directement
+
+	Les verbes d'action HTTP autorisés sont 
+	- GET
+	- POST
+	- PUT
+	- DELETE
+	
+	Les routes sont groupées en deux grandes catégories "web" et "api"
+	et peuvent chacune porter des sous groupes nommés avec la balise "group"
+
+	Exemple
+	<group base="posts">
+		<get url="/" action="PostController@index"/>
+		<post utl="save" action="PostController@save"/>
+	</group>
+
+	peuvent être écrits en lieu et place de 
+
+	<get url="posts/" action="PostController@index"/>
+	<post url="posts/save" action="PostController@save"/>
+
+
+-->
+
+<routes>
+
+	<!--
+	======================================================================
+
+		Le groupe "web" est utilisé pour servir les routes des 
+		applications web standards
+
+	======================================================================
+	-->
+	<web>
+
+		<!-- Le verbe d'action "GET" avec la vue "acceuil" associée -->
+		<get url="/" action="Home@index"/>
+		<get url="show" action="Home@show"/>
+		<get url="/test" action="acceuil"/>
+
+		<!-- Verbe "POST" -->
+		<post url="/" action="acceuil"/>
+
+	</web>
+
+
+
+	<!-- 
+	======================================================================
+		Le groupe "api" est utilisé pour servir les routes des apis
+
+		Les routes de l'api sont prefixées de "api"
+
+		Exemple
+		<get url="/" action="FooController@doSometing"/>
+
+		est accessible avec 
+	
+		https://votre-site.com/api/
+		
+
+	======================================================================	
+	-->
+	<api>
+
+		<!-- Le verbe d'action "GET" avec le controlleur associé -->
+		<get url="test" action="FooController@doSometing"/>
+		<get url="/" action="FooController@doSometing"/>
+
+	</api>
+
+
+</routes>
