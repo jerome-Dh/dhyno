@@ -4,7 +4,7 @@ Framework web pour PHP
 
 ## Commencer
 
-![accueil](https://github.com/jerome-Dh/dhyno/blob/master/public/images/logo.png)
+![accueil](https://github.com/jerome-Dh/dhyno/blob/master/public/images/small-logo.png)
 
 Dhyno est un framework pour le developpement des applications web en PHP en suivant une architecture MVC (Model-Vue-Controlleur)
 
@@ -13,13 +13,13 @@ Dhyno est un framework pour le developpement des applications web en PHP en suiv
 
 De quoi avez-vous besoin pour utiliser Dhyno ?
 
-- ![Composer](https://getcomposer.org/download/)
+- [Composer](https://getcomposer.org/download/)
 
-- ![PHP7.2](https://www.php.net/docs.php)
+- [PHP7.2](https://www.php.net/docs.php)
 
-- ![PHPUnit](https://phpunit.de/)
+- [PHPUnit](https://phpunit.de/)
 
-- ![Git](https://git-scm.com/downloads)
+- [Git](https://git-scm.com/downloads)
 
 - 30 minutes de votre temps
 
@@ -42,19 +42,19 @@ Dhyno utilise PHPUnit pour effectuer des tests unitaires
 
 ## Construit avec
 
-* ![Composer](https://getcomposer.org/download/) Outil de gestion des dépendances
-* ![PHP](https://www.php.net/docs.php) Langage de developpement
-* ![PHPUnit](https://phpunit.de/) Le framework des tests unitaires
-* ![Git](https://git-scm.com/downloads) Pour versionner le code
+* [Composer](https://getcomposer.org/download/) Outil de gestion des dépendances
+* [PHP](https://www.php.net/docs.php) Langage de developpement
+* [PHPUnit](https://phpunit.de/) Le framework des tests unitaires
+* [Git](https://git-scm.com/downloads) Pour versionner le code
 
 
 ## Contribuant
 
-Veuillez consulter [CONTRIBUTING.md] (https://gist.github.com/dhyno/b24679402957c63ec426) pour obtenir des détails sur notre code de conduite et sur le processus de soumission des demandes d'extraction.
+Veuillez consulter [CONTRIBUTING.md] (https://github.com/jerome-Dh/dhyno/graphs/contributors) pour obtenir des détails sur notre code de conduite et sur le processus de soumission des demandes d'extraction.
 
 ## Versioning
 
-Nous utilisons [SemVer] (http://semver.org/) pour la gestion des versions. Pour les versions disponibles, voir les [balises sur ce référentiel] (https://github.com/your/project/tags).
+Nous utilisons [Git] (https://git-scm.com) pour la gestion des versions. Pour les versions disponibles, voir les [balises sur ce référentiel] (https://github.com/jerome-Dh/dhyno/tags).
 
 ## Auteurs
 
