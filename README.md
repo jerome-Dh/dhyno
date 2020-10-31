@@ -7,6 +7,7 @@ Framework web pour PHP
 ![accueil](https://github.com/jerome-Dh/dhyno/blob/master/public/images/small-logo.png)
 
 Dhyno est un framework pour le développement des applications web en PHP en suivant une architecture MVC (Model-Vue-Controlleur).
+Il est très simple et possède quelques fonctionnalités de base telles que la gestion des requêtes, le gestionnaire de réponses, les sessions, etc.
 
 
 ### Conditions préalables
